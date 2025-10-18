@@ -31,7 +31,7 @@ TZ_NAME = "Europe/Kyiv"   # фіксована локальна таймзона
 # ======================================================================================
 PRESETS = {
     "Meow Tales": [
-        "https://www.youtube.com/@MeowMamas/videos", "https://www.youtube.com/@TailRippleMedia/videos", "https://www.youtube.com/watch?v=NCYD_-j2L4o",
+        "https://www.youtube.com/@MeowMamas/videos", "https://www.youtube.com/@TailRippleMedia/videos", "https://www.youtube.com/@graner5082",
         "https://www.youtube.com/@dassh3494/videos", "https://www.youtube.com/@ToraCatAI", "https://www.youtube.com/@MeowMemoirs97", "https://www.youtube.com/@MeowLifeTNMedia",
         "https://www.youtube.com/@MeowRelaxChannel", "https://www.youtube.com/@felinedreamtv", "https://www.youtube.com/@TinyPaws99", "https://www.youtube.com/@beamngqueen5677",
         "https://www.youtube.com/@HoneyCatAI", "https://www.youtube.com/@Amber_and_MamaPolka", "https://www.youtube.com/@StarAndManny", "https://www.youtube.com/@Daisy520-h2o",
