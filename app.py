@@ -30,20 +30,12 @@ TZ_NAME = "Europe/Kyiv"   # фіксована локальна таймзона
 # PRESETS — готові набори каналів (редагуй під себе)
 # ======================================================================================
 PRESETS = {
-    "Yumi Vibes": [
-        "https://www.youtube.com/@MyMelodyMuse", "https://www.youtube.com/@melodyisheremusic", "https://www.youtube.com/@solana.music.studio",
-        "https://www.youtube.com/@Eunbiai", "https://www.youtube.com/@soraishere2205", "https://www.youtube.com/@DreamyisHere-k3n", "https://www.youtube.com/@AIMusicClara",
-        "https://www.youtube.com/@melodyvibesworlds", "https://www.youtube.com/@Charming-girl-video", "https://www.youtube.com/@GinzaKage", "https://www.youtube.com/@HealuEcho",
-        "https://www.youtube.com/@MiaBella2124", "https://www.youtube.com/@IvyRoseai", "https://www.youtube.com/@SoundtheMusic-e5m", "https://www.youtube.com/@Cream_Harmony",
-        "https://www.youtube.com/@LaurielNoir/videos", "https://www.youtube.com/@charmingmusicvibes", "https://www.youtube.com/@WhispersLight", "https://www.youtube.com/@vanessa-vlog-5uj",
-        "https://www.youtube.com/@CandyBabe-n2d", "https://www.youtube.com/@CharmingGirls-Official", "https://www.youtube.com/@MeliaLune/videos", "https://www.youtube.com/@AImagined-j6f/videos",
-        "https://www.youtube.com/@Wonyx-music/videos", "https://www.youtube.com/@himi.ai.fashion/videos", "https://www.youtube.com/@misssweet-video/videos", "https://www.youtube.com/@beautyandthemusicchannel/videos",
-        "https://www.youtube.com/@CreamGirlVibes",
-        # додай сюди інші канали...
-    ],
-    "Enchanta Univers": [
-        "https://www.youtube.com/@AMBIENCLY", "https://www.youtube.com/@TheLuxuryDimension", "https://www.youtube.com/@TheAmbienceGirl",
-        "https://www.youtube.com/@TheShiftingRealms", "https://www.youtube.com/@CocoDream-coco", "https://www.youtube.com/@CleverSpacesGirl",
+    "Meow Tales": [
+        "https://www.youtube.com/@MeowMamas/videos", "https://www.youtube.com/@TailRippleMedia/videos", "https://www.youtube.com/watch?v=NCYD_-j2L4o",
+        "https://www.youtube.com/@dassh3494/videos", "https://www.youtube.com/@ToraCatAI", "https://www.youtube.com/@MeowMemoirs97", "https://www.youtube.com/@MeowLifeTNMedia",
+        "https://www.youtube.com/@MeowRelaxChannel", "https://www.youtube.com/@felinedreamtv", "https://www.youtube.com/@TinyPaws99", "https://www.youtube.com/@beamngqueen5677",
+        "https://www.youtube.com/@HoneyCatAI", "https://www.youtube.com/@Amber_and_MamaPolka", "https://www.youtube.com/@StarAndManny", "https://www.youtube.com/@Daisy520-h2o",
+        "https://www.youtube.com/@Capyat", "https://www.youtube.com/@KittensDreamYT", "https://www.youtube.com/@GingerCozyCorner_td",
         # додай сюди інші канали...
     ],
     "Fravix": [
