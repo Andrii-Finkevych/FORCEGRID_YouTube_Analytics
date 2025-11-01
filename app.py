@@ -213,7 +213,7 @@ def videos_batch(video_ids: list[str]) -> dict:
 # ======================================================================================
 # UI — все на одній сторінці
 # ======================================================================================
-st.title("📈 BladeGrid YouTube Analytics by Finkevych")
+st.title("📈 FORCEGRID YouTube Analytics by Finkevych")
 
 st.markdown("### Налаштування")
 left, right = st.columns([3, 1])
