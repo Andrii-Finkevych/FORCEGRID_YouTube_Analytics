@@ -32,10 +32,13 @@ TZ_NAME = "Europe/Kyiv"   # фіксована локальна таймзона
 PRESETS = {
     "Meow Tales": [
         "https://www.youtube.com/@MeowMamas/videos", "https://www.youtube.com/@TailRippleMedia/videos", "https://www.youtube.com/@graner5082",
-        "https://www.youtube.com/@dassh3494/videos", "https://www.youtube.com/@ToraCatAI", "https://www.youtube.com/@MeowMemoirs97", "https://www.youtube.com/@MeowLifeTNMedia",
-        "https://www.youtube.com/@MeowRelaxChannel", "https://www.youtube.com/@felinedreamtv", "https://www.youtube.com/@TinyPaws99", "https://www.youtube.com/@beamngqueen5677",
-        "https://www.youtube.com/@HoneyCatAI", "https://www.youtube.com/@Amber_and_MamaPolka", "https://www.youtube.com/@StarAndManny", "https://www.youtube.com/@Daisy520-h2o",
-        "https://www.youtube.com/@Capyat", "https://www.youtube.com/@KittensDreamYT", "https://www.youtube.com/@GingerCozyCorner_td", "https://www.youtube.com/@LeilaniRamiriz/videos",
+        "https://www.youtube.com/@ToraCatAI", "https://www.youtube.com/@MeowMemoirs97", "https://www.youtube.com/@MeowRelaxChannel",
+        "https://www.youtube.com/@felinedreamtv", "https://www.youtube.com/@TinyPaws99", "https://www.youtube.com/@HoneyCatAI",
+        "https://www.youtube.com/@Amber_and_MamaPolka", "https://www.youtube.com/@StarAndManny", "https://www.youtube.com/@Daisy520-h2o",
+        "https://www.youtube.com/@Capyat", "https://www.youtube.com/@KittensDreamYT", "https://www.youtube.com/@namitv20233",
+        "https://www.youtube.com/@meow-ruby102", "https://www.youtube.com/@MeowSugary26", "https://www.youtube.com/@Puffymeowcat",
+        "https://www.youtube.com/@MochiTalesDaily520/videos", "https://www.youtube.com/@TalesoftheKitten/videos", "https://www.youtube.com/@MeowAnimationRelax/videos",
+        "https://www.youtube.com/@MeowHaven7/videos", "https://www.youtube.com/@LUXRMOD/videos", "https://www.youtube.com/@GingerLife-b8t/videos"
         # додай сюди інші канали...
     ],
     "Fravix": [
