@@ -41,9 +41,17 @@ PRESETS = {
         "https://www.youtube.com/@MeowHaven7/videos", "https://www.youtube.com/@LUXRMOD/videos", "https://www.youtube.com/@GingerLife-b8t/videos"
         # додай сюди інші канали...
     ],
-    "Fravix": [
-        "https://www.youtube.com/@SimplePaintOfficial/videos", "https://www.youtube.com/@ThePaintExplainer/videos", "https://www.youtube.com/@ThePainfulExplainer/videos",
-        "https://www.youtube.com/@ATalkingHat/videos",
+    "Quiz": [
+        "https://www.youtube.com/@QuizDinoYT/videos", "https://www.youtube.com/@QuizBlitz_/videos", "https://www.youtube.com/@MouseQuiz./videos",
+        "https://www.youtube.com/@DailyQuizYT/videos", "https://www.youtube.com/@TheQuizChannel", "https://www.youtube.com/@TheQuizness/videos",
+        "https://www.youtube.com/@QuizGalaxyYT/videos", "https://www.youtube.com/@QuizCatYTB/videos", "https://www.youtube.com/@TheQuizShow/videos",
+        "https://www.youtube.com/@LambyQuiz", "https://www.youtube.com/@CulturaQuiz10", "https://www.youtube.com/@islam-quiz",
+        "https://www.youtube.com/@quiz_cake", "https://www.youtube.com/@heroquiz_", "https://www.youtube.com/@_Guessr/videos", "https://www.youtube.com/@QuiziverseX/videos",
+        "https://www.youtube.com/@quizzercat/videos", "https://www.youtube.com/@quizzerbee14", "https://www.youtube.com/@QuizMadness", "https://www.youtube.com/@Super_Quiz_/videos",
+        "https://www.youtube.com/@QuizKingdomYT/videos", "https://www.youtube.com/@We_Quizz/videos", "https://www.youtube.com/@HeroiQuiz_", "https://www.youtube.com/@Guessers/videos",
+        "https://www.youtube.com/@GeekQuiz", "https://www.youtube.com/@quizplug", "https://www.youtube.com/@fastQuiz20", "https://www.youtube.com/@QuizAlienTV", "https://www.youtube.com/@quizzerspace/videos",
+        "https://www.youtube.com/@MangoQuiz2.0", "https://www.youtube.com/@MonkeyQuiz", "https://www.youtube.com/@MissQuizYT", "https://www.youtube.com/@FunQuizQuestions", "https://www.youtube.com/@AwesomeQuizzz",
+        "https://www.youtube.com/@quizzie3", "https://www.youtube.com/@MocaQuiz/videos", "https://www.youtube.com/@PalmQuiz/videos", "https://www.youtube.com/@mindgames888",
         # додай сюди інші канали...
     ],
 }
@@ -216,7 +224,7 @@ def videos_batch(video_ids: list[str]) -> dict:
 # ======================================================================================
 # UI — все на одній сторінці
 # ======================================================================================
-st.title("📈 FORCEGRID YouTube Analytics by Finkevych")
+st.title("📈 YouTube Analytics by Finkevych")
 
 st.markdown("### Налаштування")
 left, right = st.columns([3, 1])
